@@ -12,9 +12,8 @@ const App = () => {
         <img src="/logo.jpg" alt="Logo" className="img" />
 
         <p>
-          Estoy aprendiendo Diseño 3D y edición de video porque es algo que realmente me gusta y disfruto hacer.
-          Me interesa crear contenido visual que se vea bien, aprender nuevas herramientas y mejorar proyecto a proyecto.
-          
+          Me desarrollo en Diseño 3D y edición de video, dos áreas que realmente me apasionan y disfruto. Me interesa crear contenido visual de calidad,
+           aprender nuevas herramientas y mejorar proyecto a proyecto.
         </p>
       </header>
 
