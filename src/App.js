@@ -66,7 +66,7 @@ const App = () => {
 
         <div className="youtube-card">
       <iframe
-        src="https://youtu.be/UnLLEfqnt4s"
+        src="https://youtube-nocookie./embed/UnLLEfqnt4s"
         title="Video 4"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen
