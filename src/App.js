@@ -31,7 +31,55 @@ const App = () => {
         </div>
       </section>
 
+  <section className="youtube-carousel-section">
+
+  <h2>Edits & Videos</h2>
+
+  <div className="youtube-carousel">
+
+    <div className="youtube-card">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/-CFMfDk7F3I"
+        title="Video 1"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    </div>
+
+    <div className="youtube-card">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/Ew7h2l5gKrg"
+        title="Video 2"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    </div>
+
+    <div className="youtube-card">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/pfaU8rBII6c"
+        title="Video 3"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    </div>
+
+        <div className="youtube-card">
+      <iframe
+        src="https://youtu.be/UnLLEfqnt4s"
+        title="Video 4"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    </div>
+
+  </div>
+
+</section>
+
       <div className="divider"></div>
+
+
         <section className="animation-section">
 
           <h2>Algunas Animaciones</h2>
@@ -72,48 +120,6 @@ const App = () => {
         <div className="divider"></div>
       
       <main className="main-content">
-
-
-  <section className="youtube-carousel-section">
-
-  <h2>Edits & Videos</h2>
-
-  <div className="youtube-carousel">
-
-    <div className="youtube-card">
-      <iframe
-        src="https://www.youtube-nocookie.com/embed/-CFMfDk7F3I"
-        title="Video 1"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-      ></iframe>
-    </div>
-
-    <div className="youtube-card">
-      <iframe
-        src="https://www.youtube-nocookie.com/embed/Ew7h2l5gKrg"
-        title="Video 2"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-      ></iframe>
-    </div>
-
-    <div className="youtube-card">
-      <iframe
-        src="https://www.youtube-nocookie.com/embed/pfaU8rBII6c"
-        title="Video 3"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-      ></iframe>
-    </div>
-
-  </div>
-
-</section>
-
-        <div className="divider"></div>
-
-
 
         <section className="socials-section">
           <h2>Redes sociales</h2>
