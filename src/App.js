@@ -37,7 +37,7 @@ const App = () => {
 
   <div className="youtube-carousel">
 
-        <div className="youtube-card">
+    <div className="youtube-card">
       <iframe
         src="https://www.youtube-nocookie.com/embed/UnLLEfqnt4s"
         title="Video 1"
@@ -72,7 +72,18 @@ const App = () => {
         allowFullScreen
       ></iframe>
     </div>
-    
+
+    <div className="youtube-card">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/CPu1jY0d7eY"
+        title="Video 5"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+    </div>
+
+
+
   </div>
 
 </section>
