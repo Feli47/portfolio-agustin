@@ -81,9 +81,6 @@ const App = () => {
         allowFullScreen
       ></iframe>
     </div>
-
-
-
   </div>
 
 </section>
