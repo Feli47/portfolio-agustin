@@ -170,16 +170,18 @@ const App = () => {
           >
             Más de mí
           </a>
-
-          <a
-  href="mailto:felipeignacioal170@gmail.com?subject=Contacto desde mi Portfolio"
-  className="contacto-btn"
->
-    Contáctame via mail
-</a>
         </section>
 
-      </main>
+<section className="contact-section">
+  <a
+    className="contact-button"
+    href="mailto:tucorreo@gmail.com?subject=Contacto desde el Portfolio"
+  >
+    Contáctame vía mail
+  </a>
+</section>
+
+</main>
 
 <footer className="footer">
   <p>&copy; 2026 Agustín Rodríguez. Todos los derechos reservados.</p>
