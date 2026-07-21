@@ -170,6 +170,13 @@ const App = () => {
           >
             Más de mí
           </a>
+
+          <a
+  href="mailto:felipeignacioal170@gmail.com?subject=Contacto desde mi Portfolio"
+  className="contacto-btn"
+>
+    Contáctame via mail
+</a>
         </section>
 
       </main>
