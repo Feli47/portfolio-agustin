@@ -175,7 +175,7 @@ const App = () => {
 <section className="contact-section">
   <a
     className="contact-button"
-    href="mailto:tucorreo@gmail.com?subject=Contacto desde el Portfolio"
+    href="mailto:agurodri1125@gmail.com?subject=Contacto desde el Portfolio"
   >
     Contáctame vía mail
   </a>
