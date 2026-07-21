@@ -135,7 +135,7 @@ const App = () => {
           <div className="socials">
 
             <a
-              href="https://www.instagram.com/not_awstin/"
+              href="https://www.instagram.com/_agurdz/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -143,7 +143,7 @@ const App = () => {
             </a>
 
             <a
-              href="https://www.tiktok.com/@not_awstin"
+              href="https://www.tiktok.com/@_agurdz"
               target="_blank"
               rel="noopener noreferrer"
             >
