@@ -181,9 +181,10 @@ const App = () => {
 
       </main>
 
-      <footer className="footer">
-        <p>&copy; 2026 Agustín Rodriguez. Todos los derechos reservados.</p>
-      </footer>
+<footer className="footer">
+  <p>&copy; 2026 Agustín Rodríguez. Todos los derechos reservados.</p>
+  <p>Desarrollado por Felipe Alvariño.</p>
+</footer>
 
     </div>
   );
